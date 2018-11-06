@@ -5,6 +5,7 @@ A batch script that automatically removes all autosaves from the UserMissions fo
 
 1. Download the repository
 2. Extract the .zip in the WarThunderCDK folder
+3. 'Yes' to all overwritings
 
 ### Usage
 - Nothing special. Just run the Mission Editor like you would normally.
