@@ -1,6 +1,6 @@
 ## War Thunder Mission Editor autosave deleter
 
-A batch script that automatically removes all autosaves from the UserMissions folder.
+A batch script that automatically removes all autosaves from the UserMissions folder. It will keep doing this until the Mission Editor is closed.
 ## Installation
 
 1. Download the repository
