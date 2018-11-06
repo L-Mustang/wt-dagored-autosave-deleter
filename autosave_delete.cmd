@@ -12,7 +12,7 @@ if errorlevel 1 (
 ) else (
   echo DaEditor is still running
   del /S /Q "*autosave.blk"
-  timeout /T 5
+  timeout /T 2
   goto loop
 )
 
